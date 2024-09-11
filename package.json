@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "dev": "your-dev-server-command-here"
+  }
+}
